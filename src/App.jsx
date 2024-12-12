@@ -1,7 +1,6 @@
 // src/App.jsx
 import React, { useState } from 'react';
 import CalendarGrid from './Components/CalenderGrid';
-import EventModal from './Components/EventModal';
 import { EventProvider } from './Context/EventContext';
 
 function App() {
